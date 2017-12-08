@@ -3,8 +3,14 @@
     <option name="PLACES_MAP">
       <entry key="CommitDialog">
         <PlaceSettings>
+          <option name="ENABLE_SYNC_SCROLL" value="false" />
           <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="READ_ONLY_LOCK" value="false" />
+        </PlaceSettings>
+      </entry>
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
         </PlaceSettings>
       </entry>
     </option>
