@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="customer-service-profile-list_msisdn_not-heritage" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="ftl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
