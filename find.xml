@@ -3,7 +3,6 @@
     <option name="customScope" value="Project Production Files" />
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,5 +15,6 @@
     <mask>*java</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*screen.java</mask>
   </component>
 </application>
