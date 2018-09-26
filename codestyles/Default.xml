@@ -36,6 +36,9 @@
       </value>
     </option>
   </JavaCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="ALIGN_MULTILINE_PARENTHESIZED_EXPRESSION" value="true" />
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
