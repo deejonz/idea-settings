@@ -12,11 +12,11 @@
     <mask>*js</mask>
     <mask>*html</mask>
     <mask>*java</mask>
-    <mask>*.js</mask>
     <mask>*screen.java</mask>
     <mask>*.json</mask>
     <mask>*.pom</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
