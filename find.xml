@@ -13,7 +13,7 @@
     <mask>*.prop*</mask>
     <mask>*.xml</mask>
     <mask>*.yaml</mask>
-    <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
