@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="jwks" type="PLAIN_TEXT" />
       <mapping ext="ftlh" type="XHTML" />
+      <mapping ext="ftl" type="XHTML" />
     </extensionMap>
   </component>
 </application>
