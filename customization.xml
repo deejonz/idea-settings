@@ -1,0 +1,47 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Stop" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Pause" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Rerun" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ViewBreakpoints" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <path value="Debugger with Alt Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CompileDirty" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debug" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunConfiguration" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
