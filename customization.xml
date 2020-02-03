@@ -56,7 +56,7 @@
       <path value="Debugger" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.UpdateProject" is_action="true" action_type="1" position="1">
+    <group value="CheckinProject" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Debugger" />
@@ -69,7 +69,21 @@
       <path value="Debugger" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.Push" is_action="true" action_type="1" position="2">
+    <group seperator="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <path value="Debugger with Alt Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.UpdateProject" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <path value="Debugger with Alt Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.Push" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Debugger" />
