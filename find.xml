@@ -7,11 +7,11 @@
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.yaml</mask>
     <mask>*.html</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.yaml</mask>
     <mask>*.java</mask>
   </component>
 </application>
