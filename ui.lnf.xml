@@ -3,6 +3,7 @@
     <option name="EDITOR_TAB_LIMIT" value="15" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="MAX_LOOKUP_WIDTH2" value="925" />
     <option name="RECENT_FILES_LIMIT" value="20" />
     <option name="RECENT_LOCATIONS_LIMIT" value="40" />
   </component>
