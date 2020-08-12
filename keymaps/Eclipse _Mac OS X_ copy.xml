@@ -2,7 +2,6 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="meta e_with_grave" />
   </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
@@ -77,7 +76,6 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta f6" />
     <keyboard-shortcut first-keystroke="meta alt left" />
-    <keyboard-shortcut first-keystroke="shift meta e_with_grave" />
   </action>
   <action id="QuickEvaluateExpression">
     <mouse-shortcut keystroke="alt button1" />
