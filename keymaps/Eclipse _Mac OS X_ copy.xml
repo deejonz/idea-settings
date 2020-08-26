@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="meta #3e8" />
+    <keyboard-shortcut first-keystroke="meta #10000e8" />
   </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
