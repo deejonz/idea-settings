@@ -6,6 +6,10 @@
           <option name="url" value="http://tools.id.vodafone.com" />
           <option name="userName" value="sbrusa" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.vodafone.com" />
+          <option name="userName" value="stefano.brusa@vodafone.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
