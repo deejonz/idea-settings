@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
-    <mask>*.prop*</mask>
+    <option name="customScope" value="local" />
+    <option name="defaultScopeName" value="local" />
+    <option name="SEARCH_SCOPE" value="local" />
+    <option name="FILE_MASK" value="*.prop*" />
     <mask>*</mask>
-    <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.json</mask>
+    <mask>*.prop*</mask>
   </component>
 </application>
