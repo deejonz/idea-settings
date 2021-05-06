@@ -6,8 +6,8 @@
     <option name="FILE_MASK" value="*.java" />
     <mask>*.prop*</mask>
     <mask>*</mask>
-    <mask>*.xml</mask>
     <mask>*.json</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
