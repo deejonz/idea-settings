@@ -3,7 +3,6 @@
     <option name="customScope" value="local" />
     <option name="defaultScopeName" value="local" />
     <option name="SEARCH_SCOPE" value="local" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*</mask>
     <mask>*.xml</mask>
     <mask>*.json</mask>
