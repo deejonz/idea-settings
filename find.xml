@@ -6,9 +6,9 @@
     <mask>*</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
-    <mask>*.prop*</mask>
     <mask>*.yaml</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
+    <mask>*.prop*</mask>
   </component>
 </application>
