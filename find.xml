@@ -3,12 +3,13 @@
     <option name="customScope" value="Project production files" />
     <option name="defaultScopeName" value="Project production files" />
     <option name="SEARCH_SCOPE" value="Project production files" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.yaml</mask>
     <mask>*.json</mask>
-    <mask>*.java</mask>
     <mask>*.prop*</mask>
+    <mask>*.java</mask>
   </component>
 </application>
