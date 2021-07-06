@@ -7,8 +7,8 @@
     <mask>*.js</mask>
     <mask>*.yaml</mask>
     <mask>*.json</mask>
-    <mask>*.prop*</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.prop*</mask>
   </component>
 </application>
